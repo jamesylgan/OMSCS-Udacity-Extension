@@ -6,6 +6,7 @@ Please submit PRs for any improvements with a short explanation of what the PR d
 # TODO:
 1. Larger text size for link
 2. Better formatting for link - no longer just replacing the page title
+3. More elegant element selection - select the footer and then select the last element, to account for any potential changes in ID numbering
 
 
 # INSTALLATION:
